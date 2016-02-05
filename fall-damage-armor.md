@@ -33,6 +33,8 @@ The following will *not* be tested:
 
 # Results
 
+All values are measured in units of *half-hearts* - the damage done to the subject.
+
 | Armor Configuration                           | Trial 1 | Trial 2 | Trial 3 | Trial 4 | Trial 5 |
 |-----------------------------------------------|---------|---------|---------|---------|---------|
 | no armor                                      | 18      | 19      | 19      | 19      | 19      |
