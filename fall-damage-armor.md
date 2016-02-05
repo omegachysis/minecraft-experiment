@@ -42,6 +42,8 @@ The following will *not* be tested:
 | all armor with boots with feather falling IV  | 7       | 8       | 5       | 11      | 11      |
 | no armor except boots with feather falling IV | 5       | 11      | 13      | 9       | 7       |
 
+It is worth noting for future reference that no armor was damaged during the test.  This appears to give the impression that armor is not damaged from falling.
+
 # Conclusions
 
 - enchanted armor does not affect fall damage below or at 22 blocks of falling
